@@ -1,0 +1,21 @@
+{
+    "name": "nextensions/yii2-material-widgets",
+    "description": "Collection of useful widgets for Yii Framework 2.0 extending functionalities for Bootstrap",
+    "license": "BSD 3-Clause",
+    "authors": [
+        {
+            "name": "nextensions",
+            "email": "nextensions.io@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2-bootstrap": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "nextensions\\material\\": ""
+        }
+    }
+
+}
