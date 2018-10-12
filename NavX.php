@@ -12,8 +12,8 @@ use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
 
 /**
- * An extended nav menu for Bootstrap 3 - that offers
- * submenu drilldown
+ * An extended nav menu for Bootstrap 3
+ * that offers submenu drilldown
  *
  */
 class NavX extends \yii\bootstrap\Nav
